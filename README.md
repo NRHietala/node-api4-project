@@ -1,3 +1,11 @@
+## API deployed to
+
+https://web38-nodeapi4.herokuapp.com/
+
+## Endpoint
+
+/api/\*
+
 # Node Deployment Module Project
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
